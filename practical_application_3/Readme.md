@@ -1,10 +1,10 @@
-### Predictive Modeling for Bank Term Deposit Subscriptions
+## Predictive Modeling for Bank Term Deposit Subscriptions
 This project focuses on creating a predictive model to determine the likelihood of a bank client subscribing to a term deposit. The analysis leverages a dataset containing client demographics, details from previous marketing campaigns, and relevant socio-economic indicators.
 
-## Project Goal
+### Project Goal
 The primary objective is to develop and evaluate a machine learning model capable of identifying potential term deposit subscribers. This involves analyzing data from 17 marketing campaigns conducted by a Portuguese bank. We will explore the effectiveness of several classification algorithms, including Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and Decision Trees, in achieving this goal.
 
-##Methodology
+### Methodology
 Our approach involves several key stages:
 
 * Data Exploration & Preprocessing: The initial step involves loading and cleaning the dataset (bank-additional-full.csv from the UCI Machine Learning Repository) to address missing values or inconsistencies. Exploratory Data Analysis (EDA) is then performed to understand data distributions and relationships between different variables.
